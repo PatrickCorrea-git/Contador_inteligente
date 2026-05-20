@@ -10,9 +10,8 @@
 body {
     background: linear-gradient(135deg, #667eea, #764ba2);
     min-height: 100vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    margin: 0;
+    overflow-x: hidden;
 }
 
 /* Caixa principal */
@@ -22,6 +21,17 @@ div {
     border-radius: 12px;
     text-align: center;
     box-shadow: 0 10px 25px rgb(0, 0, 0.2);
+}
+  
+
+#root {
+    min-height: 100vh;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    padding: 15px;
 }
 
 /* Título */
