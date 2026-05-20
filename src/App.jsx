@@ -27,7 +27,7 @@ function App() {
   }
 
   return (
-    <div>
+    <div className="container">
       <h1>Contador Inteligente: {count}</h1>
       <p>Renderizações: {countRender}</p>
       <button className="btn" onClick={() => setCount(count + 1)}>+</button>
