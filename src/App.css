@@ -15,7 +15,7 @@ body {
 }
 
 /* Caixa principal */
-div {
+.container {
     background: #fff;
     padding: 30px 40px;
     border-radius: 12px;
