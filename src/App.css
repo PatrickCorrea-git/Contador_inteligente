@@ -13,9 +13,7 @@ html {
 body {
     min-height: 100vh;
     overflow-x: hidden;
-
     font-family: Arial, Helvetica, sans-serif;
-
     background: linear-gradient(
         135deg,
         #0f172a,
@@ -31,11 +29,9 @@ body {
 /* CENTRALIZAÇÃO */
 #root {
     min-height: 100vh;
-
     display: flex;
     align-items: center;
     justify-content: center;
-
     padding: 20px;
 }
 
@@ -43,20 +39,12 @@ body {
 div {
     width: 100%;
     max-width: 420px;
-
     padding: 35px 30px;
-
     border-radius: 22px;
-
     background: rgba(255, 255, 255, 0.12);
-
     backdrop-filter: blur(12px);
-
     border: 1px solid rgba(255, 255, 255, 0.15);
-
-    box-shadow:
-        0 8px 32px rgba(0, 0, 0, 0.25);
-
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.25);
     text-align: center;
 }
 
@@ -64,7 +52,6 @@ div {
 h1 {
     color: white;
     margin-bottom: 15px;
-
     font-size: 32px;
 }
 
@@ -72,7 +59,6 @@ h1 {
 p {
     color: #d1d5db;
     margin-bottom: 25px;
-
     font-size: 18px;
 }
 
@@ -80,15 +66,11 @@ p {
 button {
     border: none;
     cursor: pointer;
-
     padding: 12px 18px;
     margin: 6px;
-
     border-radius: 12px;
-
     font-size: 16px;
     font-weight: bold;
-
     transition: 0.25s ease;
 }
 
@@ -140,18 +122,14 @@ button {
 
     button {
         width: 100%;
-
         margin: 8px 0;
-
         padding: 12px;
-
         font-size: 15px;
     }
 }
 
 /* TABLET */
 @media (min-width: 481px) and (max-width: 768px) {
-
     .container {
         max-width: 500px;
     }
@@ -159,15 +137,12 @@ button {
 
 /* ANIMAÇÃO FUNDO */
 @keyframes gradient {
-
     0% {
         background-position: 0% 50%;
     }
-
     50% {
         background-position: 100% 50%;
     }
-
     100% {
         background-position: 0% 50%;
     }
