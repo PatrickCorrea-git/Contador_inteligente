@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Contador Inteligente - React
+# 🔢 Contador Inteligente - React
 
 Aplicação de contador desenvolvida em React com foco em prática de Hooks, renderização e gerenciamento de estado.
 
@@ -7,13 +6,19 @@ Aplicação de contador desenvolvida em React com foco em prática de Hooks, ren
 
 ## 📸 Preview
 
-![Preview do projeto](./preview_contador.png)
+<p align="center">
+  <img src="./preview_contador_desktop.png" width="700"/>
+</p>
+
+<p align="center">
+  <img src="./preview_contador_mobile.jpg" width="250"/>
+</p>
 
 ---
 
 ## 🔗 Deploy
 
-🔗 https://SEU-LINK-VERCEL.vercel.app
+🔗 https://contador-inteligente.vercel.app/
 
 ---
 
@@ -67,13 +72,13 @@ Interface adaptada para:
 Clone o repositório:
 
 ```bash
-git clone https://github.com/PatrickCorrea-git/SEU-REPOSITORIO.git
+https://github.com/PatrickCorrea-git/Contador_inteligente
 ```
 
 Entre na pasta do projeto:
 
 ```bash
-cd SEU-REPOSITORIO
+cd Contador_inteligente
 ```
 
 Instale as dependências:
@@ -94,4 +99,4 @@ npm run dev
 
 - Desenvolvido por Patrick Corrêa.
 
-- GitHub: https://github.com/PatrickCorrea-git
+- GitHub: [PatrickCorrea-git](https://github.com/PatrickCorrea-git)
