@@ -18,7 +18,7 @@ Aplicação de contador desenvolvida em React com foco em prática de Hooks, ren
 
 ## 🔗 Deploy
 
-🔗 https://contador-inteligente.vercel.app/
+🔗 [Acessar projeto](https://contador-inteligente.vercel.app/)
 
 ---
 
