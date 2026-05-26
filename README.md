@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Contador Inteligente - React
 
 Aplicação de contador desenvolvida em React com foco em prática de Hooks, renderização e gerenciamento de estado.
